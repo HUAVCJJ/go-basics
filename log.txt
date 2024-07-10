@@ -1,2 +1,0 @@
-WARN: 2024/07/10 12:08:36 main.go:19: warning message
-ERROR: 2024/07/10 12:08:36 main.go:21: error message
